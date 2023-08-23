@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saqib aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saqib aziz" height="30" width="40" /></a>
-<a href="https://fb.com/saqib aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saqib aziz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saqib-aziz41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saqib-aziz41/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/saqib.aziz.3950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saqib.aziz.3950" height="30" width="40" /></a>
 <a href="https://instagram.com/saqib_aziz41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saqib_aziz41" height="30" width="40" /></a>
 </p>
 

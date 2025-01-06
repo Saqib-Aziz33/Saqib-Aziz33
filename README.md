@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Zimopro](zimopro.com)
 
-- 🌱 I’m currently learning **Typescript, Jest, React Native**
+- 🌱 I’m currently learning **Docker, Microservices, Software Testing**
 
 - 👨‍💻 All of my projects are available at [saqib-aziz.vercel.app](saqib-aziz.vercel.app)
 
-- 💬 Ask me about **react, node, express, mongodb**
+- 💬 Ask me about **react, node, express, mongodb, typescript, mysql ,next js**
 
 - 📫 How to reach me **saqib.aziz41@gmail.com**
 
